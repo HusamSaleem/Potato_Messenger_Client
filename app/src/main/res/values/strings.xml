@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Potato Messenger</string>
+    <string name="potato_messenger">Potato Messenger</string>
+    <string name="log_in">Log in</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+    <string name="aa">Aa</string>
+    <string name="chat_id">Chat Id:</string>
+    <string name="friends">Friends</string>
+    <string name="add">Add</string>
+    <string name="friend_name">Friend Name</string>
+    <string name="logged_in_as">Logged in as:</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="log_out">Log Out</string>
+    <string name="accept_friend_requests_here">Accept Friend Requests Here!</string>
+    <string name="go_back">Go Back</string>
+    <string name="msg">Msg</string>
+</resources>
