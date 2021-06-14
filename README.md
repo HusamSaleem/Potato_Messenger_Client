@@ -22,6 +22,10 @@ send friend requests, and essentially chat!
 - The knowing when your friends are online is sometimes glitchy and doesn't work
 
 # How to setup
+- The client side setup should be done after setting up the server side first
+- You do need Android Studio and so you can just import this repository directly into Android Studio. 
+- All you need to do is change the host address in app/src/potatomessenger/client/ServerConnectionInfo.java. You can also change the PORT address there too if you changed the default port which was 9663 in the server side. 
+- And thats it! If you have not set up the server side yet, please go here: https://github.com/HusamSaleem/Potato_Messenger_Server
 
 
 # Pictures!
